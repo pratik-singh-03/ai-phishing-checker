@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    background: #0f172a;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+textarea {
+    width: 60%;
+    height: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    background: #22c55e;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 20px;
+}
